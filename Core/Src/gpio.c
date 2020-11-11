@@ -37,7 +37,6 @@
         * EVENT_OUT
         * EXTI
 */
-
 void MX_GPIO_Init(void)
 {
 
