@@ -26,7 +26,6 @@
 extern void SystemCoreClockUpdate(void);
 void SystemClock_Config(void);
 void Error_Handler(void);
-
 // Holds the system core clock, which is the system clock 
 // frequency supplied to the SysTick timer and the processor 
 // core clock.
